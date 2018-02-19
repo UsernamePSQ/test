@@ -1,0 +1,16 @@
+Begr. valgfri stat:
+
+CompStat
+Statÿ
+APP
+
+Adv Machine Learning
+__________
+VidSand1
+VidSand2
+_________________
+Graphical Models
+
+Blok 1:
+Adv Machine Learning*	ExtremeValueTheory A			LSDA*
+DisMod**		Sparse C /Caus B	Regr** A	ProjInStat**
